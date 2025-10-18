@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now on Hugging Face Spaces:** [https://huggingface.co/spaces/hassankhalil/breatheeasy-chatbot](https://huggingface.co/spaces/YOUR_USERNAME/breatheeasy-chatbot)
+**Try it now on Hugging Face Spaces:** [https://huggingface.co/spaces/hassankhalil/breatheeasy-chatbot](https://huggingface.co/spaces/hassankhalil/breatheeasy-chatbot)
 
 > 🚀 The chatbot is deployed and live! No installation needed - just click the link above to start chatting.
 
